@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="218" viewBox="0 0 880 218" role="img" aria-labelledby="title desc">
+  <title id="title">pjmll</title>
+  <desc id="desc">Wuhan University · Projects and experiments</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2=".7" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101728"/>
+      <stop offset=".54" stop-color="#122038"/>
+      <stop offset="1" stop-color="#182a39"/>
+    </linearGradient>
+    <linearGradient id="cat" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#82f1c5"/>
+      <stop offset="1" stop-color="#8daeff"/>
+    </linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#8ab9dc" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="frame"><rect width="880" height="218" rx="19"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="880" height="218" fill="url(#bg)"/>
+    <rect x="512" width="368" height="218" fill="url(#grid)"/>
+    <path d="M0 43H880" stroke="#718ba6" stroke-opacity=".28"/>
+    <g>
+      <circle cx="22" cy="22" r="4" fill="#f38e9b"/>
+      <circle cx="36" cy="22" r="4" fill="#ffd284"/>
+      <circle cx="50" cy="22" r="4" fill="#82e5bd"/>
+    </g>
+    <text x="72" y="27" fill="#afc2d8" font-family="monospace" font-size="13" letter-spacing="1.5">GITHUB / PROFILE</text>
+    <text x="48" y="126" fill="#f2f8ff" font-family="Consolas, Menlo, monospace" font-size="76" font-weight="700" letter-spacing="-4">pjmll</text>
+    <rect x="252" y="97" width="12" height="28" rx="2" fill="#82f1c5"/>
+    <text x="51" y="171" fill="#a9c4e2" font-family="Consolas, Menlo, monospace" font-size="19" font-weight="700">Wuhan University · Projects &amp; experiments</text>
+    <g fill="none" stroke="url(#cat)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.4">
+      <path d="M655 111l1-43 38 24q25-7 47 0l34-26 5 44q11 10 11 25c0 26-27 40-72 40s-73-14-73-40q0-14 9-24Z" fill="#192942"/>
+      <path d="m666 90 14 10m83-9-12 10M682 129h9m54 0h9m-45 11q5 7 10 0 5 7 10 0"/>
+      <path d="m653 138-27-4m27 14-24 5m156-15 24-4m-24 14 24 5"/>
+      <path d="M610 79v14m-7-7h14m201 22v13m-6-6h12m-31-54v11m-5-6h10"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="879" height="217" rx="18.5" fill="none" stroke="#7994b0" stroke-opacity=".43"/>
+</svg>
