@@ -1,5 +1,5 @@
 <svg data-state="working" xmlns="http://www.w3.org/2000/svg" width="880" height="218" viewBox="0 0 880 218" role="img" aria-labelledby="banner-title">
-<title id="banner-title">pjmll · Wuhan University · Pixel cat status</title>
+<title id="banner-title">pjmll · Pixel cat status</title>
 <defs>
   <linearGradient id="bg" x2="1" y2=".7">
     <stop stop-color="#101728"/><stop offset="1" stop-color="#17273b"/>
@@ -273,7 +273,7 @@
   <rect x="413" y="152" width="10" height="10" rx="2" fill="#24344b"/>
   <rect x="426" y="152" width="10" height="10" rx="2" fill="#24344b"/>
   <rect x="439" y="152" width="10" height="10" rx="2" fill="#24344b"/>
-  <text x="50" y="188" fill="#b4cde5" font-size="19" font-weight="700">Wuhan University · Projects &amp; experiments</text>
+  <text x="50" y="188" fill="#b4cde5" font-size="19" font-weight="700">Projects &amp; experiments</text>
   <rect x="522" y="57" width="324" height="135" rx="13" fill="#101a2b" stroke="#3a4d69"/>
   <text x="541" y="78" fill="#9bb0cd" font-size="12" letter-spacing="1.6">PIXEL CAT / STATUS</text>
   <path d="M654 99v68" stroke="#334661"/>
