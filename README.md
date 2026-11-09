@@ -21,6 +21,12 @@
 
 `Python` · `PyTorch` · `SQLite` · `Git`
 
+## 编程语言
+
+<img src="https://raw.githubusercontent.com/pjmll/pjmll/language-stats-output/languages.svg" width="780" alt="公开自有项目仓库的编程语言占比">
+
+<sub>按公开自有项目仓库的代码字节统计，排除 fork 和个人主页仓库。每天更新。</sub>
+
 ## 贡献记录
 
 <picture>
