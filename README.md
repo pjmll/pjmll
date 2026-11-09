@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pjmll/pjmll/pixel-cat-output/profile-banner.svg" width="880" alt="pjmll · Wuhan University · Projects &amp; experiments · 随公开活动切换状态的像素橘猫">
+  <img src="https://raw.githubusercontent.com/pjmll/pjmll/pixel-cat-output/profile-banner.svg?v=2" width="880" alt="pjmll · Projects &amp; experiments · 随公开活动切换状态的像素橘猫">
 </p>
 
 <p align="center">我在这里记录做过的实验，也写一些能派上用场的小工具。</p>
